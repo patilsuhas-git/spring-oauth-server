@@ -1,9 +1,0 @@
-server:
-  port: 9000
-spring:
-  datasource:
-    url: jdbc:postgressql://localhost:5432/postgres
-    username: postgres
-  jpa:
-    show-sql: true
-
